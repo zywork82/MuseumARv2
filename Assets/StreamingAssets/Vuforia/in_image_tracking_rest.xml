@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="yellowwoman" size="1.000000 1.599225" />
+    <ImageTarget name="pearl" size="1.000000 1.029345" />
+    <ImageTarget name="deadman" size="1.000000 1.311628" />
+    <ImageTarget name="bluemaid" size="1.000000 1.473643" />
+  </Tracking>
+</QCARConfig>
